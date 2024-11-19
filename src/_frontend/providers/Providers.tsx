@@ -8,7 +8,7 @@ import { theme } from "../libs/theme";
 export function Providers({ children }: { children: React.ReactNode }) {
   return (
     <>
-      <ChakraProvider theme={theme}>{children}</ChakraProvider>;
+      <ChakraProvider theme={theme}>{children}</ChakraProvider>
     </>
   );
 }

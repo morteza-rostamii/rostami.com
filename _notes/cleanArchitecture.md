@@ -294,3 +294,40 @@ class TodoEntity {
 }
 
 -->
+
+<!--
+
+# clean architecture (bearded developer)
+
+# presentation layer
+
+  # Next js related things
+  # pages
+  # client-components
+  # sever-components
+  # server-actions
+  # api-routes
+
+# Business layer
+  # services
+    # AuthService
+  #
+
+# Persistence layer
+
+  # repositories
+
+===============
+# controller
+  # take input
+  # pass input into the use-case
+
+# services
+
+# Interface and dependency injection
+
+# Dtos
+
+# models
+
+ -->
